@@ -1,9 +1,4 @@
-```json
-{
-  "book_metadata": {
-    "title": "Shata Prashna Shara Sandhanam",
-    "total_questions": 100
-  },
+
   "topics": [
     {
       "topic_name": "Divinity of Sai Baba",
@@ -433,4 +428,4 @@
   ]
 }
 
-```
+
