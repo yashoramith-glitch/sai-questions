@@ -1,0 +1,436 @@
+```json
+{
+  "book_metadata": {
+    "title": "Shata Prashna Shara Sandhanam",
+    "total_questions": 100
+  },
+  "topics": [
+    {
+      "topic_name": "Divinity of Sai Baba",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Who is called true God? Is The Supreme Lord/ Lord of the Universe is only one? Or are there many Gods?"
+        },
+        {
+          "id": 2,
+          "question": "What is the hidden (oral) meaning of the word “Sai”?"
+        },
+        {
+          "id": 3,
+          "question": "Shirdi Sai, the Siddha, who proved HIS Omniscient is a human being or God?"
+        },
+        {
+          "id": 4,
+          "question": "Shirdi Sai Baba, the great yogi who exhibited all siddhis is a human being or God?"
+        },
+        {
+          "id": 5,
+          "question": "Sai Baba, the Siddharudha who proved, “I am God’ and that He exists as the indwelling presence in every living being — Should He be called a human being or God?"
+        },
+        {
+          "id": 6,
+          "question": "Shirdi Sai Baba, the Siddha Yogindra who proved the world that all Gods/Goddesses exist in Him — Should He be called a human being or God?"
+        },
+        {
+          "id": 7,
+          "question": "Sai Baba, who proved that He is the absolute incarnation of Lord Shiva in Kali Yuga — Is He a human being, or is He verily Parama Shiva Himself?"
+        },
+        {
+          "id": 8,
+          "question": "Some criticize Sai Baba saying, “Sai Baba is not an incarnation of Dattatreya. How can he be Datta? He is a Muslim” Is it half knowledge or complete knowledge?"
+        },
+        {
+          "id": 9,
+          "question": "Sai Baba, who is capable of accepting the karmas/ sins of others — Is a mere human being? or is a God beyond human limitation?"
+        },
+        {
+          "id": 10,
+          "question": "Sai Baba, the supreme Avadhuta, who is proving His presence even after leaving His physical body(attaining Mahasamadhi), should He be called a human or Maheshwara?"
+        },
+        {
+          "id": 11,
+          "question": "How did siddhas, yogis, and avadhutas (not just human beings) worship Sai Baba? As a human being? or as God?"
+        },
+        {
+          "id": 12,
+          "question": "Sai Baba who silently made many realize the Brahman is a human being or God?"
+        },
+        {
+          "id": 13,
+          "question": "Sai Baba, who lived in Dwarkamai for 60 years,; south facing proved, “I myself am Dakshinamurthy” — was He an ordinary worshipper, or Dakshinamurthy Himself?"
+        },
+        {
+          "id": 14,
+          "question": "Sai Baba, who displayed the rare Khandayoga — was He a mere yogi, or was He God Himself?"
+        },
+        {
+          "id": 15,
+          "question": "Sai Baba, who demonstrated the great Dhauti Yoga — extraordinarily - by expelling His intestines, cleansing them with water, drying them on a tree, and swallowing them again — should He be called a yoga practitioner, or a Bhagavan?"
+        },
+        {
+          "id": 16,
+          "question": "Everyone can teach., But Sai Baba, demonstrated His divinity in action — is He a human being or God?"
+        },
+        {
+          "id": 17,
+          "question": "Sai Baba, who lit lamps with water and proved His siddhahood — is a human being or God?"
+        },
+        {
+          "id": 18,
+          "question": "Sai Baba, who put His hand in boiling water, stirred it, and conquered the sense of body-consciousness — is a human being or God?"
+        },
+        {
+          "id": 19,
+          "question": "Sai Baba, who commanded and stopped a storm within moments — should He be called a human being or Maheshwara?"
+        },
+        {
+          "id": 20,
+          "question": "Sai Baba, who commanded the five elements — should He be called a human being, or Maheshwara?"
+        },
+        {
+          "id": 21,
+          "question": "Sai Baba, who travelled through many worlds by means of the subtle body — was He a merely human, or was He Maheshwara beyond human limitations?"
+        },
+        {
+          "id": 22,
+          "question": "Sai Baba, sitting in Shirdi itself, extinguished the burning hut of Tajuddin Baba — should He be called a yogi, or Eeshwara, the Emperor of Gurus?"
+        },
+        {
+          "id": 23,
+          "question": "Sai Baba, though stayed in Shirdi saved the lives of His devotees — should He be called a mere human being, or a Bhagavan beyond human limitation?"
+        },
+        {
+          "id": 24,
+          "question": "Sai Baba, who remained continuously in Nirvikalpa Samadhi for 72 hours and proved the world, “I am firmly established in Brahma Jnana” — should He be called a yoga practitioner, or Rudra, the Lord of Yogis?"
+        },
+        {
+          "id": 25,
+          "question": "Not everyone can read the hearts of human beings. But Sai Baba, who could read people’s hearts at a mere glance — is a human being or God?"
+        },
+        {
+          "id": 26,
+          "question": "Sai Baba, who proved that He is the Virat Purusha, the one of steady wisdom, the knower of the past, present, and future, beyond the three gunas, and beyond Maya — is a human being, or verily Parabrahman Himself?"
+        },
+        {
+          "id": 27,
+          "question": "Baba gave assurance to the world, “If you chant ‘Sai, Sai,’ I will protect you even if you are beyond the seven seas.” Did any Guru, any yogi, or any Acharya ever given such assurance to the world?"
+        },
+        {
+          "id": 28,
+          "question": "Baba eradicated diseases in mere seconds, for millions, by transmitting spiritual energy (Shaktipat) through His simple glance and touch. Is Sai Baba, who revealed Divinity to many is a mere human being ? Or the Supreme Lord (Maheshwara)?"
+        },
+        {
+          "id": 29,
+          "question": "Is Baba, who manifested the sacred rivers Ganga and Yamuna right from His own feet, a mere human being l? Or the Paramahamsa (supreme swan), the Supreme Lord (Parameshwara) Himself?"
+        },
+        {
+          "id": 30,
+          "question": "Is Sai Baba, who proved the entire world His divine excellence (Siddhatva) that could even stop the death of His disciples, a human? Or God?"
+        }
+      ]
+    },
+    {
+      "topic_name": "Sai Baba — Hindu or Muslim?",
+      "questions": [
+        {
+          "id": 31,
+          "question": "Authentically and according to the scriptures (Shastras), is Sai Baba a Hindu or a Muslim?"
+        },
+        {
+          "id": 32,
+          "question": "Ordinary humans may have castes and religions, but the self-realized (Brahmajnanis) and the liberated souls (Avadhutas) possess neither caste nor religion. What is the reason for this?"
+        },
+        {
+          "id": 33,
+          "question": "When a Hindu accepted Islam, did Baba appreciate him? Or slap and teach him the lesson that religious conversion is not apt?"
+        },
+        {
+          "id": 34,
+          "question": "According to the authoritative text of the Sai Satcharita, what is the lifestyle of Sai Baba? Was it a Hindu or a Muslim?"
+        },
+        {
+          "id": 35,
+          "question": "Nityagni Hotra, (a primary and daily sacred fire ritual) of Sanatana Dharma, would be performed by a Hindu or a Muslim?"
+        },
+        {
+          "id": 36,
+          "question": "Giving Vibhuti as prasadam to devotees — does it belong to Sanatana Dharma or to Islam?"
+        },
+        {
+          "id": 37,
+          "question": "What is the opinion of Swami Sharanananda, who served Sai Baba personally? Did he identify Baba as a Hindu or a Muslim?"
+        },
+        {
+          "id": 38,
+          "question": "According to Sai Satcharitra and the lifestyle of Baba - Did Sai Baba ever perform Namaz even a day (as a Muslim)?"
+        },
+        {
+          "id": 39,
+          "question": "Three days prior to attaining Mahasamadhi, did Baba listen to a Hindu scripture or to the Quran?"
+        },
+        {
+          "id": 40,
+          "question": "Was Sai Baba a Hindu (who renunciated all worldly attachments), or a Muslim yogi?"
+        },
+        {
+          "id": 41,
+          "question": "How did Upasani Baba, a Brahmin who attained many siddhis by Baba’s grace — identify Sai Baba? As a Hindu or a Muslim?"
+        },
+        {
+          "id": 42,
+          "question": "Baba’s dwelling place in Shirdi was a mosque. But why did Sai Baba titled the mosque With a Hindu word “Dwarkamai”?"
+        },
+        {
+          "id": 43,
+          "question": "Did Sai Baba make all His Hindu devotees read the Quran, or read the Hindu scriptures?"
+        },
+        {
+          "id": 44,
+          "question": "Why all Hindus worship Baba, Though all Muslims do not worship Baba? What is the main cause?"
+        },
+        {
+          "id": 45,
+          "question": "Who are the major devotees who served Sai Baba? Is it Hindus or Muslims ?"
+        },
+        {
+          "id": 46,
+          "question": "Many righteous and orthodox Brahmins of Maharashtra worshipped Baba? Why?"
+        },
+        {
+          "id": 47,
+          "question": "There are lakhs of Sai temples across the world. Are the priests of these temples Hindus or Muslims?"
+        },
+        {
+          "id": 48,
+          "question": "If Sai Baba was not a Hindu Guru, why did Lord Srimannarayana Himself send His devotee Rege to serve Sai Baba?"
+        },
+        {
+          "id": 49,
+          "question": "According to the Sai Satcharitra, And many other Sai biographies by different authors, did Sai Baba condemn or encourage religious fanaticism?"
+        },
+        {
+          "id": 50,
+          "question": "Sai Baba, though born into a Brahmin family — but was raised by a Muslim couple and underwent circumcision. Can it make a Hindu to be identified as a Muslim?"
+        },
+        {
+          "id": 51,
+          "question": "When Sai Baba attained Mahasamadhi, Why was He recorded as a Muslim? Was it due to threats from Muslims, or the cowardice of Hindu Sai devotees?"
+        },
+        {
+          "id": 52,
+          "question": "Is there evidence or not that Sai Baba Himself declared, “I am a Brahmin” and “I am a Hindu yogi”?"
+        },
+        {
+          "id": 53,
+          "question": "What did Hemadpant (the Brahmin who wrote the Sai Satcharitra and personally served Baba for 8 years) say? According to him, was Sai a Hindu or a Muslim?"
+        },
+        {
+          "id": 54,
+          "question": "B. V. Narasimhaswami, the Brahmin who personally served Shirdi Sai and interviewed Baba’s devotees — Did identify Sai Baba a Hindu or a Muslim?"
+        },
+        {
+          "id": 55,
+          "question": "Sai philosophy teachers (brahmins), who wrote books about Shirdi Sai such as Ekkirala Bharadwaja and Sharat Babuji did they identify Sai Baba as a Hindu or a Muslim?"
+        },
+        {
+          "id": 56,
+          "question": "After interviewing the grandchildren and great-grandchildren of Sai Baba’s devotees, studying many biographies, and various monthly magazines (of Sai) for 18 years writing 54 books about Shirdi Sai, and delivering hundreds of discourses on Sai Tatva — did I identify Sai Baba a Hindu or a Muslim?"
+        },
+        {
+          "id": 57,
+          "question": "Though Sai Baba is not a Muslim, why He is being misidentified as Muslim? What are the reasons?"
+        }
+      ]
+    },
+    {
+      "topic_name": "Testimonies of Saints and Siddhas",
+      "questions": [
+        {
+          "id": 58,
+          "question": "What incarnation did the Siddhaguru Meher Baba proclaim “Sai Baba to be” to the world?"
+        },
+        {
+          "id": 59,
+          "question": "Sri Ramakrishna Paramahamsa, the embodiment of pure devotion, an incarnation, and the noblest among Brahmins — Identified Sai Baba? As a yogi, or a verily Parabrahman?"
+        },
+        {
+          "id": 60,
+          "question": "Bhagavan Ramana Maharshi, the walking Parabrahman — why did he praise Baba’s siddhahood? Why did he ask his disciple to spread Baba’s message in foreign countries?"
+        },
+        {
+          "id": 61,
+          "question": "Avadhuta Sri Madhavanath Maharaj praised Baba, saying, “Sai Baba is the Yogi of yogis, the Mahayogi.” Why did he glorify Baba in this way? Similarly, Siddhayogi Sri Ananda Maharaj, the beloved disciple of Ava dhuta Sri Akkalkot Maharaj, when he saw Sai Baba for the first time, why did he say that Sai Baba was a Guru like a diamond?"
+        },
+        {
+          "id": 62,
+          "question": "Tatvadarshi Rishikesh Sri Sivananda Swami, who propagated Sanatana Dharma in an unparalleled way — did he call Sai Baba merely a Guru, or did he call Him verily Sat-Chit-Ananda Parabrahman?"
+        },
+        {
+          "id": 63,
+          "question": "Sri Gangagheer Baba, the Siddhayogi, said, “If I am one who herds goats, Sai Baba is the great Yogeshwara who commands tigers and lions.” Why did he say so?"
+        },
+        {
+          "id": 64,
+          "question": "Sri Shuddhananda Bharati Swami, the great sanyasi, praised Sai Baba as God Himself. Why did he glorify Him in this way?"
+        },
+        {
+          "id": 65,
+          "question": "Siddhaguru Sri Rama Maruti Maharaj praised Sai Baba as Atmarama and as verily Parabrahman. Why did he glorify Him in this way? Similarly, Siddha Purusha Sri Gadge Maharaj praised Sai Baba as a complete Siddha, a Mahayogi, and verily Ishwara Himself. Why did he praise Him so?"
+        },
+        {
+          "id": 66,
+          "question": "Sri Vasudevananda Saraswati Swami, a sanyasi of the Sanatana tradition of the Sringeri Shankaracharya lineage, declared Sai Baba to be Shiva Himself. Why did he proclaim this? Similarly, Sri Shantavan Maharaj said that only with the merit of many births can one hold the feet of Sai Baba. Why did he praise Sai Baba in this way?"
+        },
+        {
+          "id": 67,
+          "question": "Siddhayogi Sri Devidas Maharaj and Yogi Janakidas said, “Baba is the great Yatishwara who conquered Maya and attachment. Sai Baba is worthy of worship even by yogis and Gurus like us.” Why did they say so?"
+        },
+        {
+          "id": 68,
+          "question": "Babajan, who was of the nature of an Avadhuta, praised Baba immeasurably, saying, “The keys to the spiritual kingdom of all devotees are in Sai Baba’s hands.” Why did she glorify Him in this way?"
+        },
+        {
+          "id": 69,
+          "question": "Why did Sri Swami Ramdas say that devotees who worship Sai Baba as their Guru have no need of any other Guru or any other yogi? Similarly, Madras Mataji, the Yogini Mother, saw Him in a meditative state and proclaimed to the world what incarnation Sai Baba was. What incarnation did she declare Him to be?"
+        },
+        {
+          "id": 70,
+          "question": "“Shirdi Sai Baba is the Guru of Gurus, the Mahaguru. There is no other great being who possesses siddhahood equal to Sai Baba.” Why did Narayan Maharaj say this?"
+        },
+        {
+          "id": 71,
+          "question": "When Booty, a devotee of Sai, came for the darshan of Siddha Purusha Tajuddin Baba, why did Tajuddin Baba say: “Your Guru, Sai Baba, is a great Siddha worshipped even by Siddha Purushas. I do not interfere in the matters of Sai Baba’s devotees.” Similarly, did the great Yogeshwara Sri Manik Prabhu call Shirdi Sai Baba a mere fakir, or did he call Him a complete Siddha Purusha?"
+        }
+      ]
+    },
+    {
+      "topic_name": "Questions on Sanatana Dharma",
+      "questions": [
+        {
+          "id": 72,
+          "question": "What is Sanatana Dharma? Because of caste and religious orthodoxy, and due to distorted understanding, some people mock and criticize Baba, saying that Sai Baba acted against Sanatana Dharma and corrupted Sanatana Dharma. Is this limited knowledge or complete wisdom?"
+        },
+        {
+          "id": 73,
+          "question": "Some people criticize that, since Sai Baba is not mentioned in the Vedas, Hindus should not worship Sai Baba. Is this wisdom or foolishness?"
+        },
+        {
+          "id": 74,
+          "question": "Rama and Krishna may not be directly present in the Vedas, but they are mentioned in the Puranas and Smritis. Some people criticize that Sai Baba is not mentioned there. Is this limited knowledge or complete wisdom?"
+        },
+        {
+          "id": 75,
+          "question": "Some people criticize Sai Baba, saying that He does not belong to the tradition of accepted noble customs, and therefore Sai Baba is not worthy of worship. Is this limited knowledge or complete wisdom?"
+        },
+        {
+          "id": 76,
+          "question": "Some people criticize Sai Baba, saying that He did not know Sanskrit and was not a master of all scriptures. Is this limited knowledge or complete wisdom?"
+        },
+        {
+          "id": 77,
+          "question": "Did Baba accept Adi Shankaracharya’s commentary on the Bhagavad Gita verse, or did He not accept it?"
+        },
+        {
+          "id": 78,
+          "question": "Did Baba accept Adi Shankara’s doctrine of “Jagat Mithya” — “the world is illusory” — or did He reject it?"
+        },
+        {
+          "id": 79,
+          "question": "What is the reason why Sai Baba Himself said, “I am verily Mahalakshmi”?"
+        },
+        {
+          "id": 80,
+          "question": "In the Sai Samadhi Mandir, the very place where Booty intended to install Sri Krishna, Sai Baba’s idol was installed instead, and Sri Krishna’s idol was not installed. What are the reasons for this? And why did Sai Baba Himself tell Booty, “I am the Sri Krishna whom you worship”?"
+        },
+        {
+          "id": 81,
+          "question": "Some people criticize Sai Baba, saying: “Baba advised against fasting on Ekadashi, did not prohibit onion, and gave betel leaves to devotees as prasadam. Are these not against scriptural principles?” Is this limited knowledge or complete wisdom?"
+        },
+        {
+          "id": 82,
+          "question": "Some people criticize Sai Baba, saying: “Baba said that scholarship in the six Shastras is not necessary, and He rejected the six Shastras. Is this not against Sanatana Dharma?” Is this limited knowledge or complete wisdom?"
+        },
+        {
+          "id": 83,
+          "question": "Some people criticize Baba, saying: “On the most sacred day of Shivaratri, Baba told people not to fast. Is this not against the Shastras?” Is this limited knowledge or complete wisdom?"
+        },
+        {
+          "id": 84,
+          "question": "By misunderstanding some of Sai Baba’s divine acts, some people criticize Baba. Is this Dharma or Adharma?"
+        },
+        {
+          "id": 85,
+          "question": "Without knowing how deeply devoted Sai Baba was to His Guru, some people mock Baba, saying: “Sai Baba had no Guru. How can one who has no Guru become a Guru to others?” Is this limited knowledge or complete wisdom?"
+        },
+        {
+          "id": 86,
+          "question": "Some people criticize Sai Baba, saying: “Offering animal sacrifice in Dwarkamai, cooking non-vegetarian food, and distributing it to devotees — are these not against the Shastras?” Is this limited knowledge or complete wisdom?"
+        },
+        {
+          "id": 87,
+          "question": "Sai Baba was an unparalleled reviver of Sanatana Dharma. Yet some people argue that He acted against Sanatana Dharma. Is this limited knowledge or complete wisdom?"
+        },
+        {
+          "id": 88,
+          "question": "Some people say that placing Baba beside Hindu Gods and worshipping Him equally is against Sanatana Dharma and a great sin. Sai Baba is an incarnation of Shiva, a Mahaguru who revealed all deities within Himself. To mock and criticize such a being — is it ignorance or true wisdom?"
+        },
+        {
+          "id": 89,
+          "question": "Sai Baba chanted the name “Allah Malik.” Some criticize Him, saying that no Mahatmas in the Sanatana tradition ever remembered the name of Allah, and only Baba did so. Is this limited knowledge or complete wisdom?"
+        },
+        {
+          "id": 90,
+          "question": "What is the reason and evidence that Shirdi Sai Baba not only revived Sanatana Dharma Himself, but also made His disciples carry out the revival of Sanatana Dharma victoriously and wonderfully?"
+        }
+      ]
+    },
+    {
+      "topic_name": "Revival of Dharma Through Disciples",
+      "questions": [
+        {
+          "id": 91,
+          "question": "Not only Sai Baba, but many disciples who served Sai Baba and received His grace attained numerous siddhis. What is the reason Sai Baba made them carry out the revival of Sanatana Dharma in an unparalleled way? What is the direct evidence?"
+        },
+        {
+          "id": 92,
+          "question": "Not only Shirdi Sai Baba, but I too, as Baba’s disciple, have awakened Kundalini in thousands of my disciples, given Brahma Jnana to many, and granted Atma Sakshatkara to those who were eligible. What is the reason that Sai Baba, operating invisibly from behind the scenes, has made me a mere instrument (Nimittamatra) to carry out this upliftment and protection of Sanatana Dharma?"
+        },
+        {
+          "id": 93,
+          "question": "What is the reason Sai Baba, while remaining invisible, made His disciples carry out the revival of Sanatana Dharma, the protection of Sanatana Dharma, and the establishment of Vedic Dharma in a way that is glorified hundreds of thousands of crores of times? What is the profound evidence for this?"
+        },
+        {
+          "id": 94,
+          "question": "What is the reason Sai Baba, while remaining invisible, made His disciples carry out service to Veda Mata and the propagation of Vedic Dharma in an unparalleled way? What is the absolute evidence for this?"
+        },
+        {
+          "id": 95,
+          "question": "For the revival of Sanatana Dharma, for the protection of Sanatana Dharma, and for the establishment of Vedic Dharma, what is the reason Sai Baba, while remaining invisible, made His disciples carry out this work? What is the evidence for this?"
+        },
+        {
+          "id": 96,
+          "question": "With half-baked knowledge, some people make reckless criticisms, saying that Sai Baba led devotees on a non-Vedic path and corrupted Vedic Dharma. Is this distorted understanding or true wisdom?"
+        },
+        {
+          "id": 97,
+          "question": "Why do people say “Sai Ram” instead of simply saying “Sai”? Some criticize, saying: “Keeping Rama beside Sai, who was a Muslim, is against Sanatana Dharma.” Is this limited knowledge or complete wisdom?"
+        },
+        {
+          "id": 98,
+          "question": "Who obstructed Vedic Dharma and the propagation of the Vedas, which are the foundation of Sanatana Dharma? Was it some Acharyas, or was it Sai Baba? Who corrupted Sanatana Dharma? Was it some Acharyas, or was it Sai Baba?"
+        },
+        {
+          "id": 99,
+          "question": "Sai Baba is worshipped by crores of Hindus. Criticizing and condemning such Sai Baba is a great sin, a grave offence greater than Brahmahatya. What is the reason for this?"
+        },
+        {
+          "id": 100,
+          "question": "Sai Baba is Bhagavan Himself. Some people think that He is not God, but only a Guru. Is this limited knowledge or complete wisdom?"
+        }
+      ]
+    }
+  ]
+}
+
+```
